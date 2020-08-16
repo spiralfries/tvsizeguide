@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c30eb6f3.chunk.css",
+    "main.js": "/static/js/main.8da03f72.chunk.js",
+    "main.js.map": "/static/js/main.8da03f72.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a0a3802e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a0a3802e.js.map",
+    "static/js/2.4a069373.chunk.js": "/static/js/2.4a069373.chunk.js",
+    "static/js/2.4a069373.chunk.js.map": "/static/js/2.4a069373.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8825445b3542275b11b7f0bfa2d86232.js": "/precache-manifest.8825445b3542275b11b7f0bfa2d86232.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c30eb6f3.chunk.css.map": "/static/css/main.c30eb6f3.chunk.css.map",
+    "static/js/2.4a069373.chunk.js.LICENSE.txt": "/static/js/2.4a069373.chunk.js.LICENSE.txt",
+    "static/media/lounge43stand.png": "/static/media/lounge43stand.9263822f.png",
+    "static/media/lounge43wall.png": "/static/media/lounge43wall.4684358a.png",
+    "static/media/lounge50stand.png": "/static/media/lounge50stand.aed25ff6.png",
+    "static/media/lounge50wall.png": "/static/media/lounge50wall.b45f4c39.png",
+    "static/media/lounge55stand.png": "/static/media/lounge55stand.ca5b6cb9.png",
+    "static/media/lounge55wall.png": "/static/media/lounge55wall.097c0265.png",
+    "static/media/lounge65stand.png": "/static/media/lounge65stand.1c9b0cc0.png",
+    "static/media/lounge65wall.png": "/static/media/lounge65wall.6fe9fa81.png",
+    "static/media/lounge75stand.png": "/static/media/lounge75stand.cc2fd084.png",
+    "static/media/lounge75wall.png": "/static/media/lounge75wall.bac82def.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0a3802e.js",
+    "static/js/2.4a069373.chunk.js",
+    "static/css/main.c30eb6f3.chunk.css",
+    "static/js/main.8da03f72.chunk.js"
+  ]
+}

@@ -1,0 +1,45 @@
+body {
+    font-family:'Rubik', sans-serif;
+}
+.LoungeWrapper {
+    position:relative;
+}
+.CategoryWrapper {
+    display:flex;
+    flex:1 1 auto;
+}
+.CategoryWrapper li {
+    flex:1 1 50%;
+    margin:5px 5px 0 0;
+    font-size:1.75em;
+}
+.CategoryWrapper li:last-child {
+    margin-right:0;
+}
+.CategoryWrapper li a {
+    text-decoration:none;
+}
+.SizesWrapper {
+    display:flex;
+}
+.SizesWrapper li {
+    flex:1 0 auto;
+    margin:5px 5px 0 0;
+    font-size:1em;
+}
+.SizesWrapper li:last-child {
+    margin-right:0;
+}
+.buttonCategory p {
+    text-transform:capitalize;
+}
+.buttonCategory .unit {
+    display:none;
+}
+.CategoryWrapper .unit {
+    display:none;
+}
+.active {
+    background:rgb(82,147,202);
+    color:rgb(255,255,255) !important;
+}

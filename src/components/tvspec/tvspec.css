@@ -1,0 +1,164 @@
+.TvSpecWrapper {
+    position:absolute;
+    color:rgb(17,17,17);
+    margin-top:200px;
+    width:100%;
+    font-size:0.9em;
+    top:100px;
+}
+.SpecIntro {
+    padding:0em;
+    text-align:left;
+}
+.SpecIntro h3 {
+    font-size:1em;
+    font-weight:bold;
+    margin:0.5em 0 0.5em 0;
+}
+
+p.dimensions {
+    font-weight:bold;
+    margin-top:1em;
+}
+@media only screen and (min-width:400px) {
+    .TvSpecWrapper {
+        margin-top:240px;
+    }
+}
+@media only screen and (min-width:450px) {
+    .TvSpecWrapper {
+        margin-top:260px;
+    }
+}
+@media only screen and (min-width:490px) {
+.TvSpecWrapper {
+    margin-top:280px;
+    }
+}
+@media only screen and (min-width:540px) {
+.TvSpecWrapper {
+    margin-top:300px;
+    }
+}
+@media only screen and (min-width:580px) {
+.TvSpecWrapper {
+    margin-top:320px;
+    }
+}
+@media only screen and (min-width:615px) {
+.TvSpecWrapper {
+    margin-top:340px;
+    }
+}
+@media only screen and (min-width:640px) {
+.TvSpecWrapper {
+    margin-top:360px;
+    }
+}
+@media only screen and (min-width:700px) {
+.TvSpecWrapper {
+    margin-top:380px;
+    }
+}
+@media only screen and (min-width:750px) {
+.TvSpecWrapper {
+    margin-top:420px;
+    }
+}
+@media only screen and (min-width:450px) {
+.specTr {
+    display:inline-block;
+}
+}
+@media only screen and (min-width: 768px) {
+
+.SpecIntro {
+    margin-bottom:0;
+    padding:0.25em 0.25em 0 0.25em;
+}
+.SpecIntro h3 {
+    font-size:1em;
+    margin:0.5em 0 0 0;
+}
+em {
+    font-style:oblique;
+}
+.specTr {
+    font-size:0.8em;
+    padding:0;
+}
+}
+@media only screen and (min-width: 768px) {
+.TvSpecWrapper {
+    width:200px;
+    height:300px;
+    top:5em;
+    right:1em;
+    margin-top:0;
+    background:rgba(255,255,255, .3);
+    position:absolute;
+    }
+.SpecIntro {
+     padding:0.5em;
+    }
+.specTr {
+    font-size:1em;
+    }
+}
+@media only screen and (min-width: 768px) {
+.SpecIntro {
+    padding:1em 1em 0 1em;
+}
+.specTr {
+    padding:1em;
+    border-bottom: 1px solid rgba(255,255,255, .3);
+    display:block;
+}   
+}
+  .specTr:last-child {
+      border-bottom:none;
+  }
+  .specTr th {
+    padding-right:5px;
+  }
+  .specTr td {
+      font-weight:bold;
+      padding-right:10px;
+  }
+  @media only screen and (min-width: 768px) {
+    .specTr td {
+        padding-right:0;
+    }
+  }
+  @media only screen and (min-width: 1024px) {
+
+.TvSpecWrapper {
+    width:200px;
+    height:360px;
+    top:1em;
+    right:1em;
+}
+.SpecIntro h3 {
+    font-size:1.25em;
+    margin-top:0.5em;
+    }
+  }
+  @media only screen and (min-width: 1250px) {
+  .specTr {
+      display:block;
+      }
+  }
+  .capitalise {
+    text-transform:capitalize;
+  }
+  .toggleView {
+      cursor:pointer;
+      background:rgba(255,255,255, 0.5);
+      color:rgb(17,17,17);
+      font-size:0.7em;
+      width:20px;
+      height:20px;
+      margin:5px 5px 0 0;
+      padding-top:10px;
+      float:right;
+  }

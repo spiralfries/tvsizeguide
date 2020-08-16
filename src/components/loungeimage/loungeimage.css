@@ -1,0 +1,11 @@
+.loungeImage {
+        zoom:2;
+        display:block;
+        margin:0.25em auto;
+        height:auto;
+        max-height:100%;
+        width:auto;
+        max-width:100%;
+        border:4px solid #cdcdcd;
+        box-sizing:border-box;
+}
